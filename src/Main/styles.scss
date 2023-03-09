@@ -1,0 +1,21 @@
+.main{
+    .navbar{
+        background-color: black;
+        display: flex;
+        align-items: center;
+        justify-content: right;
+        height: 70px;
+        margin:1px;
+    
+    }
+    .Hbutton{
+        background-color: black;
+        color: aliceblue;
+        padding: 15px;
+        border-radius: 5px;
+        margin: 30px;
+        display: flex;
+        text-decoration: none;
+        border:none;
+    }
+}
